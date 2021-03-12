@@ -1,1 +1,1 @@
-Essa éa página da cetegoria {{$slug}}
+essa é pagina da categoria: {{$slug}}
