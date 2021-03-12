@@ -1,0 +1,1 @@
+Essa éa página da cetegoria {{$slug}}
